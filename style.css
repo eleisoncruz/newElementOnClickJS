@@ -1,0 +1,17 @@
+#wrapper {
+  margin: 0 auto;
+  width: 520px;
+}
+
+body {
+  font-size: 90%;
+  font-family: arial;
+}
+
+.newBlock {
+  width: 30px;
+  height: 30px;
+  float: left;
+  margin-right: 10px;
+  border: 1px solid gray;
+}
